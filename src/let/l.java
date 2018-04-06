@@ -7,6 +7,7 @@ public class l {
 		if(x==0){
 			x=x+1;
 			System.out.println("done");
+		}
 	        else{
 				x=x+10;
 				System.out.println("done");
